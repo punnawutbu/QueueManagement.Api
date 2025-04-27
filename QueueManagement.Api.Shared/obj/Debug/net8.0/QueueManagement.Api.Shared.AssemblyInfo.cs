@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("QueueManagement.Api.Shared")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09caa6c9217163be93693d93f4bed93acaf0cec2")]
 [assembly: System.Reflection.AssemblyProductAttribute("QueueManagement.Api.Shared")]
 [assembly: System.Reflection.AssemblyTitleAttribute("QueueManagement.Api.Shared")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

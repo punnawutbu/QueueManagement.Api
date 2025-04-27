@@ -28,6 +28,7 @@ namespace QueueManagement.Api.Shared.Repositories
             if(currentQueue == "Z9") await ClearQueueTicketAsync();
 
             var nextQueue = CalculateNextQueue(currentQueue);
+            await connection.ExecuteAsync("SET TIMEZONE = 'Asia/Bangkok'");
 
             DateTime createdAt = await connection.QuerySingleAsync<DateTime>(
                 "INSERT INTO queue_ticket (queue_number) VALUES (@QueueNumber) RETURNING created_at",

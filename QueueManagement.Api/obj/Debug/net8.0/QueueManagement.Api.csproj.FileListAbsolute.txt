@@ -60,3 +60,4 @@
 /Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api/bin/Debug/net8.0/NLog.Targets.ElasticSearch.dll
 /Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api/bin/Debug/net8.0/Npgsql.dll
 /Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api/bin/Debug/net8.0/Polly.dll
+/Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api/obj/Debug/net8.0/QueueManagement.Api.sourcelink.json

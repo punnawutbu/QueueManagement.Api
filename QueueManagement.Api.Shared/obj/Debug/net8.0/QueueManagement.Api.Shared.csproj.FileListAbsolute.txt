@@ -10,3 +10,4 @@
 /Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api.Shared/obj/Debug/net8.0/refint/QueueManagement.Api.Shared.dll
 /Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api.Shared/obj/Debug/net8.0/QueueManagement.Api.Shared.pdb
 /Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api.Shared/obj/Debug/net8.0/ref/QueueManagement.Api.Shared.dll
+/Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api.Shared/obj/Debug/net8.0/QueueManagement.Api.Shared.sourcelink.json
