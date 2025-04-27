@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueManagement.Api", "QueueManagement.Api\QueueManagement.Api.csproj", "{20F35F75-FFD0-42EC-8793-9E5077F822E8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "QueueManagement.Api.Shared", "QueueManagement.Api.Shared\QueueManagement.Api.Shared.csproj", "{80E5FD3B-52F3-4E09-9731-D490FABB2874}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{20F35F75-FFD0-42EC-8793-9E5077F822E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20F35F75-FFD0-42EC-8793-9E5077F822E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20F35F75-FFD0-42EC-8793-9E5077F822E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20F35F75-FFD0-42EC-8793-9E5077F822E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80E5FD3B-52F3-4E09-9731-D490FABB2874}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80E5FD3B-52F3-4E09-9731-D490FABB2874}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80E5FD3B-52F3-4E09-9731-D490FABB2874}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80E5FD3B-52F3-4E09-9731-D490FABB2874}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

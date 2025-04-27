@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3ykoK8hm0fOzc0gJ4TXZeBJows7Y9PAv9Qr2UnuU56k=",
+  "Source": "QueueManagement.Api",
+  "BasePath": "_content/QueueManagement.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

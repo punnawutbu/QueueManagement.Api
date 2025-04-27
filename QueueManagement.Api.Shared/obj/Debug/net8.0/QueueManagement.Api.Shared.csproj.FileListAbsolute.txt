@@ -1,0 +1,12 @@
+/Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api.Shared/bin/Debug/net8.0/QueueManagement.Api.Shared.deps.json
+/Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api.Shared/bin/Debug/net8.0/QueueManagement.Api.Shared.dll
+/Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api.Shared/bin/Debug/net8.0/QueueManagement.Api.Shared.pdb
+/Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api.Shared/obj/Debug/net8.0/QueueManagement.Api.Shared.csproj.AssemblyReference.cache
+/Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api.Shared/obj/Debug/net8.0/QueueManagement.Api.Shared.GeneratedMSBuildEditorConfig.editorconfig
+/Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api.Shared/obj/Debug/net8.0/QueueManagement.Api.Shared.AssemblyInfoInputs.cache
+/Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api.Shared/obj/Debug/net8.0/QueueManagement.Api.Shared.AssemblyInfo.cs
+/Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api.Shared/obj/Debug/net8.0/QueueManagement.Api.Shared.csproj.CoreCompileInputs.cache
+/Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api.Shared/obj/Debug/net8.0/QueueManagement.Api.Shared.dll
+/Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api.Shared/obj/Debug/net8.0/refint/QueueManagement.Api.Shared.dll
+/Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api.Shared/obj/Debug/net8.0/QueueManagement.Api.Shared.pdb
+/Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api.Shared/obj/Debug/net8.0/ref/QueueManagement.Api.Shared.dll

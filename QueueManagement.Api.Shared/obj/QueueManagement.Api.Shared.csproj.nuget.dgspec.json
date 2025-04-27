@@ -1,0 +1,97 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api.Shared/QueueManagement.Api.Shared.csproj": {}
+  },
+  "projects": {
+    "/Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api.Shared/QueueManagement.Api.Shared.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api.Shared/QueueManagement.Api.Shared.csproj",
+        "projectName": "QueueManagement.Api.Shared",
+        "projectPath": "/Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api.Shared/QueueManagement.Api.Shared.csproj",
+        "packagesPath": "/Users/punnawut-bucha/.nuget/packages/",
+        "outputPath": "/Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api.Shared/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/punnawut-bucha/Code/DevShift/QueueManagement.Api/QueueManagement.Api.Shared/NuGet.Config",
+          "/Users/punnawut-bucha/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "DevShift.defaultexception": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Devshift.Dapper": {
+              "target": "Package",
+              "version": "[1.0.1, )"
+            },
+            "Devshift.Jwt": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Devshift.ResponseMessage": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "Npgsql": {
+              "target": "Package",
+              "version": "[9.0.3, )"
+            },
+            "StackExchange.Redis": {
+              "target": "Package",
+              "version": "[2.8.31, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.406/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
